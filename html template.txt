@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Impressionism</title>
+</head>
+<body>
+
+<!-- ADDING NAV BAR -->
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<h1>Impressionism.</h1>
+
+<h3>History</h3>
+<p>Impressionism came about in the late 1800s; it was a radical art movement that rejected the traditional, realistic style of the time. On the contrary, it is actually coined the first modern movement in painting. Impressionist art drew inspiration from a Japanese style, ukiyo-e.</p>
+
+<h3>Characteristics</h3>
+<p>Impressionism is characterized by thin, small, visible brush strokes. Artists often utilize layering (without blending) in their painting to add dimension. Impressionist art does not pay attention to detail; it focuses on the piece as whole. Artists use complimentary colors to depict shadows (not black and grey), which creates a brighter painting overall. Lastly, impressionist artists paint outdoors, not in a studio. This allows them to better grasp the beauty of their surroundings.</p>
+
+<h3>Notable Artists</h3>
+<p>Claude Monet, Paul Cezanne, Alfred Sisley</p>
+
+<h3>Famous Works</h3>
+<h5>Impression Sunrise - Claude Monet</h5>
+<a href="https://ibb.co/Wfvw5Fn"><img src="https://i.ibb.co/w4hXgCy/impression-sunrise.jpg" alt="impression-sunrise" border="0"></a>
+
+<!-- INSERTING IMAGES... OBTAINED IMG URL THROUGH 'IMGBB' -->
+
+<h5>The Large Bathers - Paul Cezanne</h5>
+<a href="https://ibb.co/TrYpZZ9"><img src="https://i.ibb.co/7bj8HHs/Screen-Shot-2023-01-26-at-10-21-31-AM.png" alt="Screen-Shot-2023-01-26-at-10-21-31-AM" border="0"></a>
+
+<h5>The Bridge at Villenueve-la-Garenne - Alfred Sisley</h5>
+<a href="https://ibb.co/qdDpyYL"><img src="https://i.ibb.co/t4HDmpw/The-Bridge-at-Villeneuve-la-Garenne-MET-DT1040.jpg" alt="The-Bridge-at-Villeneuve-la-Garenne-MET-DT1040" border="0"></a>
+
+<h5>Irises - Vincent Van Gogh</h5>
+<a href="https://ibb.co/4TnVn1N"><img src="https://i.ibb.co/qs3r3J1/DP346474.jpg" alt="DP346474" border="0"></a>
+
+
+</body>
+</html>
+
+
+<!-- UTILIZED DIFFERENT H TAGS TO DIFFERENTIATE SECTIONS -->
